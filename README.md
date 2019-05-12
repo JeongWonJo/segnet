@@ -7,8 +7,10 @@
 * numpy (1.16.3)     ```pip install numpy==1.16.3```
 
 ## Pretrained Model
-Download pretrained model from <https://drive.google.com/file/d/1T1INhutItUOOJ-iWicu4VjQCdUXi29wE/view?usp=sharing>
+Download pretrained model from <https://drive.google.com/file/d/1T1INhutItUOOJ-iWicu4VjQCdUXi29wE/view?usp=sharing> .
 <br>
-Pretrained model was trained with CamVid dataset, which contains \[Sky, Building, Pole, Road_marking, Road, Pavement, Tree, SignSymbol, Fence, Car, Pedestrian, Bicyclist, Unlabelled\] labels. Images are 360\*480 size
+Pretrained model was trained with CamVid dataset, which contains \[Sky, Building, Pole, Road_marking, Road, Pavement, Tree, SignSymbol, Fence, Car, Pedestrian, Bicyclist, Unlabelled\] labels.
+<br>
+Images are 360\*480 size.
 
 
