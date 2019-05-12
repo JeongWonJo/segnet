@@ -46,8 +46,8 @@ class Dataset:
                 txt = [line.split(' ') for line in txt]
                 
             for i in range(len(txt)):
-                data.append(self.normalized(cv2.imread(txt[i][0][7:].replace("/CamVid/", DataPath))))
-                label.append(self.one_hot_it(cv2.imread(txt[i][1][7:][:-1].replace("/CamVid/", DataPath))))
+                data.append(self.normalized(cv2.imread(txt[i][0])))
+                label.append(self.one_hot_it(cv2.imread(txt[i][1].strip())))
              
         return np.array(data), np.array(label)
     
