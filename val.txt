@@ -1,2 +1,2 @@
-/home/jjw49/segnet_tensor_JW/Hyatt-House.jpg
-/home/jjw49/segnet_tensor_JW/street.jpg
+Hyatt-House.jpg
+street.jpg
