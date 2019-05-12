@@ -22,4 +22,9 @@ The following guide is to segment the sky from images and change the sky to new 
 <br>
 
 ## Example
-![original image](Hyatt-House.jpg)
+![original image1](Hyatt-House.jpg)
+![original image2](street.jpg)
+![segmented image1](./output/val0.png)
+![segmented image2](./output/val1.png)
+![new style image1](./output/timthumb_0.png)
+![new style image2](./output/timthumb_1.png)
